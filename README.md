@@ -23,3 +23,8 @@ A Collection Of Simple Python Programs Designed For Practice And Learning. Perfe
   <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/1.%20Personal%20Information/1_Personal_Information.py">Click Here For Solution</a>
   <br>
   <br>
+  <b>2. Loan Qualifier</b>
+  <p>Program to determine whether a bank customer qualifies for a loan.</p>
+  <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/2.%20Loan%20Qualifier/loan_qualifier.py">Click Here For Solution</a>
+   <br>
+  <br>
