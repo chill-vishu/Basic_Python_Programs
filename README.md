@@ -35,3 +35,8 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/3.%20Day%20of%20the%20Week/day_of_the_week.py">Click Here For Solution</a>
 <br>
 <br>
+<b>4. Areas of Rectangles</b>
+  <p>The area of a rectangle is the rectangle’s length times its width. Write a program that asksfor the length and width of two rectangles. The program should tell the user which rectangles the greater area, or if the areas are the same.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/4.%20Areas%20Of%20Rectangles/areas_of_rectangles.py">Click Here For Solution</a>
+<br>
+<br>
