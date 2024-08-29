@@ -40,3 +40,14 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/4.%20Areas%20Of%20Rectangles/areas_of_rectangles.py">Click Here For Solution</a>
 <br>
 <br>
+<b>5. Age Classifier</b>
+  <p>Write a program that asks the user to enter a person’s age.</p>
+  <p>The program should display a message indicating whether the person is an infant, a child, a teenager, or an adult.</p>
+  <p>Following are the guidelines:</p>
+  <p>• If the person is 1 year old or less, he or she is an infant.</p>
+  <p>• If the person is older than 1 year, but younger than 13 years, he or she is a child.</p>
+  <p>• If the person is at least 13 years old, but less than 20 years old, he or she is a teenager.</p>
+  <p># • If the person is at least 20 years old, he or she is an adult.</p>
+  <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/5.%20Age%20Classifier/age_classifier.py">Click Here For Solution</a>
+  <br>
+  <br>
