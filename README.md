@@ -51,3 +51,8 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
   <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/5.%20Age%20Classifier/age_classifier.py">Click Here For Solution</a>
   <br>
   <br>
+  <b>6. List Operations</b>
+  <p>Program demonstrates create list, append, insert, remove, sort, copy, how to get the index of an item in a list and then replace that item with a new item.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/6.%20List%20Operations/list_operations.py">Click Here For Solution</a>
+<br>
+<br>
