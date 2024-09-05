@@ -61,3 +61,8 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/7.%20Program%20to%20Demonstrate%20Use%20of%20Tuples/use_of_tuples.py">Click Here For Solution</a>
 <br>
 <br>
+<b>8. Program Demonstrates List and Dictionary Operations</b>
+  <p>Create A Program That Demonstrates The Following Tasks: Creating A List, Appending, Inserting, Removing, Sorting, And Copying Elements Within The List, Accessing Elements In A Dictionary, And Working With Strings.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/8.%20Program%20Demonstrates%20List%20and%20Dictionary%20Operations/list_and_dictionary_operations.py">Click Here For Solution</a>
+<br>
+<br>
