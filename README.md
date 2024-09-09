@@ -71,3 +71,13 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/9.%20Sales%20Commission%20Program/sale_commission_program.py">Click Here For Solution</a>
 <br>
 <br>
+<b>10. Program Using Range Function with For Loop</b>
+  <p>Write A Program That Demonstrates How The Range Function Can Be Used With A For Loop.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/10.%20Program%20Using%20Range%20Function%20with%20For%20Loop/program_using_range_function_with_for_loop.py">Click Here For Solution</a>
+<br>
+<br>
+<b>11. Print Asterisks in a Triangle Pattern</b>
+  <p>Create A Program That Print Asterisks In A Pattern That Looks Like The Triangle.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/11.%20Print%20Asterisks%20in%20a%20Triangle%20Pattern/print_asterisks_in_a_triangle_pattern.py">Click Here For Solution</a>
+<br>
+<br>
