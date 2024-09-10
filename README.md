@@ -81,3 +81,8 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/11.%20Print%20Asterisks%20in%20a%20Triangle%20Pattern/print_asterisks_in_a_triangle_pattern.py">Click Here For Solution</a>
 <br>
 <br>
+<b>12. Program to Navigate Different Data Structures</b>
+  <p>Create A Program To Navigate In Different Data Structures.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/12.%20Program%20to%20Navigate%20Different%20Data%20Structures/program_to_navigate_different_data_structures.py">Click Here For Solution</a>
+<br>
+<br>
