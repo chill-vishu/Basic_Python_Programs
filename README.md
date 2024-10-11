@@ -116,3 +116,10 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/18.%20Program%20Demonstrates%20Polymorphism/program_demonstrates_polymorphism.py">Click Here For Solution</a>
 <br>
 <br>
+<b>19. File Operations</b>
+  <p>Write A Program To Open A File And Ask The User To Input The Filename.</p>
+  <p>If The File Exists, Display The Content Of The File,</p>
+  <p>Else Create A File And Write The Line “File Is Opened In Write Mode”.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/19.%20File%20Operations/file_operations.py">Click Here For Solution</a>
+<br>
+<br>
