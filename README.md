@@ -101,3 +101,8 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/15.%20Program%20To%20Create%20Class%20With%20Initializer/class_with_initializer.py">Click Here For Solution</a>
 <br>
 <br>
+<b>16. Create Object And Use It</b>
+  <p>Write A Program To Create Object Of Class And Use It.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/16.%20Program%20To%20Create%20Object%20Of%20Class%20And%20Use%20It/create_object_and_use_it.py">Click Here For Solution</a>
+<br>
+<br>
