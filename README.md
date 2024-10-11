@@ -96,3 +96,8 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/14.%20Program%20to%20Create%20Car%20and%20Employee%20Class/create_car_and_employee_class.py">Click Here For Solution</a>
 <br>
 <br>
+<b>15. Class With Initializer</b>
+  <p>Write A Program To Create Class With Initializer.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/15.%20Program%20To%20Create%20Class%20With%20Initializer/class_with_initializer.py">Click Here For Solution</a>
+<br>
+<br>
