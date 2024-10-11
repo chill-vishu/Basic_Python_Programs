@@ -111,3 +111,8 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/17.%20Program%20To%20Inherit%20One%20Class%20From%20Parent/Inherit_from_parent_class.py">Click Here For Solution</a>
 <br>
 <br>
+<b>18. Program Demonstrates Polymorphism</b>
+  <p>Write A Program That Demonstrates Polymorphism.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/18.%20Program%20Demonstrates%20Polymorphism/program_demonstrates_polymorphism.py">Click Here For Solution</a>
+<br>
+<br>
