@@ -106,3 +106,8 @@ Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday, and 
 <a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/16.%20Program%20To%20Create%20Object%20Of%20Class%20And%20Use%20It/create_object_and_use_it.py">Click Here For Solution</a>
 <br>
 <br>
+<b>16. Inherit From Parent Class</b>
+  <p>Write A Program To Inherit One Class From Parent.</p>
+<a href="https://github.com/chill-vishu/Basic_Python_Programs/blob/main/17.%20Program%20To%20Inherit%20One%20Class%20From%20Parent/Inherit_from_parent_class.py">Click Here For Solution</a>
+<br>
+<br>
